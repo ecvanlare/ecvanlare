@@ -22,6 +22,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Azure-0089D6?&logo=Microsoft-Azure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&logo=Kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/-Helm-0F1689?&logo=Helm&logoColor=white" alt="Helm"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/-Terraform-623CE4?&logo=Terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=black" alt="Linux"/>
