@@ -1,9 +1,21 @@
-<h1 align="center">Hi 👋🏾, I'm Carl Van-Lare</h1>
-<h3 align="center">DevOps Engineer | Azure Certified | Cloud & Automation Specialist</h3>
+<h1 align="center">Welcome! 👋🏾</h1>
+<h3 align="center"> DevOps | Azure Certified | Cloud & Automation Specialist</h3>
 
-- 🔭 I'm currently **building and contributing to projects that combine CI/CD, Infrastructure as Code, Kubernetes, and GitOps practices**
-- 📝 I share my journey and insights on **<a href="https://www.linkedin.com/in/carl-van-lare/" target="_blank" rel="noopener noreferrer">LinkedIn</a>**  
-- 💻 Check out my work at **[GitHub Repositories](https://github.com/ecvanlare?tab=repositories)**  
+<div align="center">
+  <samp>
+    <p>Building and contributing to projects that combine <strong>CI/CD</strong>, <strong>Infrastructure as Code</strong>, <strong>Kubernetes</strong>, <strong>AI</strong> and <strong>GitOps</strong> practices 🤖🌩🚀</p>
+    <p>💻 Check out my work at <a href="https://github.com/ecvanlare?tab=repositories"><strong>GitHub Repositories</strong></a></p>
+  </samp>
+</div>
+ 
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carl-van-lare/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ### 🛠️ Technologies & Skills
 
